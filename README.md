@@ -45,7 +45,8 @@ Ce projet Power BI vise à analyser la consommation électrique d’un foyer typ
 
 ### 🖼️ Aperçu dynamique
 
-![Dashboard Power BI – aperçu animé](img/dash-global.gif)
+
+![Dashboard Impact Énergétique](imgdash-global.GIF)
 
 
 ---
@@ -71,7 +72,8 @@ Ce projet illustre les **3 leviers recommandés par l’ADEME** pour réussir la
 
 ## 🔗 Accès rapide
 
-📎 Dashboard résumé : 📎 [Télécharger le dashboard complet (PDF)](dashboard.pdf)
+📎 Dashboard résumé : 📎 [📂 Dashboard.pbit](https://github.com/Data-Projects-Hub/impact-energetique-powerbi/blob/main/Dashboard.pbit)
+
  
 
 
